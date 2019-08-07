@@ -1,0 +1,8 @@
+{
+    "protocol": "https",
+    "server": "ru.wikipedia.org",
+    "path": "/w",
+    "debug": false,
+    "username": "Foo",
+    "password": "Bar"
+}

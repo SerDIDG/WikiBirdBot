@@ -1,0 +1,19 @@
+{
+  "name": "wikibirdbot",
+  "version": "0.2.3",
+  "description": "Bot for making stuff in Wikipedia",
+  "license": "MIT",
+  "author": {
+    "name": "Serhio Magpie",
+    "email": "serdidg@gmail.com",
+    "url": "https://github.com/SerDIDG"
+  },
+  "repository": "SerDIDG/WikiBirdBot",
+  "devDependencies": {},
+  "dependencies": {
+    "nodemw": "^0.12.2",
+    "ora": "^3.4.0",
+    "request-promise": "^4.2.4",
+    "simple-node-logger": "^18.12.23"
+  }
+}
